@@ -1,4 +1,4 @@
-# Project 4 - Classification-Model-of-Heart-Disease  
+# Classification Model for Prediction of Heart Disease  
   
 **Introduction**   
 
